@@ -10,7 +10,7 @@ It demonstrates how SHA-512 password hashes can be cracked using dictionary atta
 - Hashcat v6.2.6
 - Wordlist: `listofpasswords.txt`
 - Hash Type: SHA-512 (`-m 1700`)
-- Operating System: Windows 10
+- Operating System: Windows 11
 
 ---
 ## 💻 Commands Used
